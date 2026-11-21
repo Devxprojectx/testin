@@ -1,0 +1,6 @@
+{
+  "name": "OS ISO Tester",
+  "image": "://microsoft.com",
+  "runArgs": ["--device=/dev/kvm"],
+  "forwardPorts": [6080]
+}
